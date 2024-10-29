@@ -1,0 +1,80 @@
+.addnow-wrapper {
+
+}
+.addnow-wrapper .addnow {
+	display: block;
+}
+
+.addnow-logo {
+	background: #0075d6 none repeat scroll 0 0;
+	display: block;
+	float: left;
+	height: 45px;
+	text-align: center;
+	width: 140px;
+	margin-right: 20px;
+}
+
+.addnow-logo a {
+	background: rgba(0, 0, 0, 0) url("http://addnow.com/assets/images/addnow-logo.svg") no-repeat scroll 50% 50%;
+	display: block;
+	height: 100%;
+	line-height: 1;
+	color: #0075d6;
+	text-indent:-9999px;
+}
+
+h2.addnow-page-title {
+	margin-bottom: 60px;
+}
+
+table.wp-list-table.widgets {
+
+}
+
+table.wp-list-table.widgets th.column-widget_name,
+table.wp-list-table.widgets th.column-widget_shortcode,
+table.wp-list-table.widgets th.column-widget_placement {
+	width: 30%;
+}
+
+table.wp-list-table.widgets th.column-widget_active {
+	width: 10%;
+}
+
+#addnow-placement-accordion-wrap h3.ui-accordion-header {
+	font-family: default;
+	border: 1px solid #ccc;
+	margin: 0;
+	padding: 5px;
+	text-indent: 20px;
+	color: #23282d;
+	background-color: #FFFFFF;
+}
+
+
+#addnow-placement-accordion-wrap div.addnow-placement-accordion-item {
+	background-color: #ffffff;
+	padding: 10px;
+}
+
+#addnow-placement-accordion-wrap table.addnow-settings-placement-list thead th  {
+	font-weight: bold;
+	font-size: 100%;
+}
+
+#addnow-placement-accordion-wrap table.addnow-settings-placement-list th  {
+	font-weight: normal;
+	font-size: 100%;
+	padding: 8px 10px;
+	margin-top: 0;
+}
+
+#addnow-placement-accordion-wrap table.addnow-settings-placement-list td  {
+	text-align: center;
+}
+
+#addnow-placement-accordion-wrap h3 span.addnow-placement-selections {
+	font-size: 0.75em;
+	float: right;
+}

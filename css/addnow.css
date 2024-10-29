@@ -1,0 +1,11 @@
+.addnow-wrapper .addnow-original-buttons-widget {
+	display: flex;
+}
+.addnow-wrapper .addnow-original-buttons-widget .fb_iframe_widget {
+	display: flex;
+}
+
+.entry-content .addnow-button-container a {
+	border-bottom: 0;
+	outline: none;
+}
